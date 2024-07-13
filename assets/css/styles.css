@@ -109,7 +109,7 @@ body.dark-theme {
 .fa-solid, .fas {
     font-family: "Font Awesome 6 Free";
     font-weight: 999;
-    font-size: x-large;
+    font-size: x-large !important;
 }
 
 /*=============== BASE ===============*/
