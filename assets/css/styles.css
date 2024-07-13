@@ -106,6 +106,12 @@ body.dark-theme {
   font-size: var(--small-font-size);
 }
 
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 999;
+    font-size: x-large;
+}
+
 /*=============== BASE ===============*/
 * {
   box-sizing: border-box;
